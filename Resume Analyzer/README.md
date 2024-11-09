@@ -33,7 +33,7 @@ Before running the app, ensure that you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/interview-assistant.git
+   git clone https://github.com/triple4t/interview-assistant.git
    cd interview-assistant/Resume Analyzer
 
 2. Install the required dependencies:
