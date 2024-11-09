@@ -36,4 +36,4 @@ Here’s how the app looks when used:
 ### Steps:
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/Interview-Assistant.git
+   git clone https://github.com/triple4t/Interview-Assistant.git
