@@ -1,0 +1,11 @@
+pypdf 
+sentence-transformers
+langchain[docarray]
+docarray
+openai
+streamlit
+tiktoken
+openai
+python-dotenv
+langchain_community
+langchain 
