@@ -8,6 +8,8 @@ The **Resume Analyzer** tool is designed to help employers and recruiters evalua
 - **Interactive User Interface**: Built with Streamlit for real-time interaction.
 
 
+
+
 ## App Screenshot:
 Here’s how the app looks when used:
 
