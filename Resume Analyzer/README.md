@@ -6,6 +6,13 @@ The **Resume Analyzer** tool is designed to help employers and recruiters evalua
 - **AI-Powered Resume Matching**: The tool analyzes resumes and matches them to job descriptions using machine learning algorithms.
 - **Match Percentage Score**: Provides a score indicating how well a candidate's resume matches the job requirements.
 - **Interactive User Interface**: Built with Streamlit for real-time interaction.
+
+
+## App Screenshot:
+Here’s how the app looks when used:
+
+![Resume Analyzer Screenshot](images/screenshot.png)
+
   
 ## **Technologies Used**:
 - **Python**: Core programming language for backend development.
