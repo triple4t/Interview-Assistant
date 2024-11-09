@@ -11,7 +11,7 @@ The **Resume Analyzer** tool is designed to help employers and recruiters evalua
 ## App Screenshot:
 Here’s how the app looks when used:
 
-![Resume Analyzer Screenshot](images/screenshot.png)
+![Resume Analyzer Screenshot](assets/resume-analyzer.png)
 
   
 ## **Technologies Used**:
